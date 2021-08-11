@@ -1,1 +1,6 @@
 # projectB
+
+Phan cong mot so nhiem vu cho thanh vien 
+Vinh: lam man hinh dang nhap, quen mat khau, ..
+Kiet: lam man hinh ....
+Luan: lam man hinh ...
