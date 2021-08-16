@@ -10,7 +10,9 @@ Luan: lam man hinh
 
 ## Cau truc
 Thu muc html
+    +index.html
+    +login.html
 Thu muc static
-Thu muc con css
-Thu muc con js
-Thu muc con imgs
+    +Thu muc con css
+    +Thu muc con imgs
+    +Thu muc con js
