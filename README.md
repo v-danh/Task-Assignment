@@ -12,7 +12,7 @@ Long
 
 Nghia
 
-    Tim hieu HTML5, Bootstrap4
+    Tim hieu HTML5, Bootstrap4.
 
 ## Cau truc
 
