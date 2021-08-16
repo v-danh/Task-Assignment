@@ -23,6 +23,6 @@ Thu muc html
 
 Thu muc static
 
-    +Thu muc con css.
-    +Thu muc con imgs.
-    +Thu muc con js.
+    +Thu muc con css
+    +Thu muc con imgs
+    +Thu muc con js
