@@ -2,17 +2,17 @@
 
 Phan cong mot so nhiem vu cho thanh vien:
 
-Duc Anh
+Duc Anh (nhom truong)
 
     Tim hieu AngularJS.
 
-Long
+Long (nhom pho)
 
     Tim hieu JQuery.
 
 Nghia
 
-    Tim hieu HTML5, Bootstrap4.
+    Tim hieu HTML 5, Bootstrap 4.
 
 ## Cau truc
 
