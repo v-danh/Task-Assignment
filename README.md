@@ -8,9 +8,9 @@ Thanh vien <i>nhom 6</i>:
 
 3. Nghia (thanh vien)
 
-Cau truc thu muc
+Cau truc thu muc gom:
 
-Thu muc <b>html</b> gom:
+Thu muc <b>html</b>
 
     about.html
     index.html
