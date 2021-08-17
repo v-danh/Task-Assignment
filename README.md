@@ -1,22 +1,29 @@
-# projectB
+# Task-Assignment (Phan cong nhiem vu)
 
-Phan cong mot so nhiem vu cho thanh vien:
+Thanh vien <i>nhom 6</i>:
 
-Duc Anh (nhom truong)
+1. Duc Anh (nhom truong)
 
-Long (nhom pho)
+2. Long (nhom pho)
 
-Nghia (thanh vien)
+3. Nghia (thanh vien)
 
-## Cau truc
+Cau truc thu muc
 
-Thu muc html
+Thu muc <b>html</b> gom:
 
-    +index.html
-    +login.html
+    about.html
+    index.html
+    menu.html
+    task_for_Anh.html
+    task_for_Long.html
+    task_for_Nghia.html
 
-Thu muc static
+Thu muc <b>Long</b>
 
-    +Thu muc con css
-    +Thu muc con imgs
-    +Thu muc con js
+    Cac tep mo rong cua JQuery
+    README.md
+
+Thu muc <b>Nghia</b>
+
+    Tim hieu ve HTML 5 va Bootstrap 4
