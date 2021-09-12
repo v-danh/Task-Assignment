@@ -10,14 +10,7 @@ Thanh vien <i>nhom 6</i>:
 
 Cau truc thu muc gom:
 
-Thu muc <b>html</b>
-
-    about.html
-    index.html
-    menu.html
-    task_for_Anh.html
-    task_for_Long.html
-    task_for_Nghia.html
+Thu muc <b>Members Management</b>
 
 Thu muc <b>Long</b>
 
