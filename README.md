@@ -10,7 +10,7 @@ Thanh vien <i>nhom 6</i>:
 
 Cau truc thu muc gom:
 
-Thu muc <b>Members Management</b>
+Thu muc <b>Member Management</b>
 
 Thu muc <b>Long</b>
 
